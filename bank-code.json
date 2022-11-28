@@ -1,0 +1,851 @@
+[
+    {
+      "bank_fax": "Fax : (021) 2500077, 2500065",
+      "bank_name": "PT BANK RAKYAT INDONESIA (PERSERO) Tbk",
+      "bank_address": "Jl. Jend. Sudirman Kav. 44-46, Jakarta 10210",
+      "bank_cd": "002",
+      "bank_phone": "(021) 2510244, 2510254, 2510269-264",
+      "bank_website": "www.bri.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5263459, 5263460, 5268246, 52997735",
+      "bank_name": "PT BANK MANDIRI (PERSERO) Tbk",
+      "bank_address": "Plaza Mandiri, Jl. Gatot Subroto Kav. 36-38, Jakarta 12190",
+      "bank_cd": "008",
+      "bank_phone": "(021) 5245006, 5245858, 5245849, 52997777",
+      "bank_website": "www.bankmandiri.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 2511221, 5709506",
+      "bank_name": "PT BANK NEGARA INDONESIA (PERSERO) Tbk",
+      "bank_address": "Jl. Jend. Sudirman Kav. 1, Jakarta 10220",
+      "bank_cd": "009",
+      "bank_phone": "(021) 2511218-19-20-22-24-25-26-29",
+      "bank_website": "www.bni.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 6346704",
+      "bank_name": "PT BANK TABUNGAN NEGARA (PERSERO) Tbk",
+      "bank_address": "Gedung Menara BTN, Jl. Gajah Mada No. 1, Jakarta 10130",
+      "bank_cd": "200",
+      "bank_phone": "(021) 2310490, 6336789, 26533555",
+      "bank_website": "www.btn.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 80645033",
+      "bank_name": "PT BANK DANAMON INDONESIA Tbk",
+      "bank_address": "Menara Bank Danamon, Jl. HR. Rasuna Said Blok C No. 10, Karet Setiabudi, Jakarta Selatan 12940",
+      "bank_cd": "011",
+      "bank_phone": "(021) 8064 5000",
+      "bank_website": "www.danamon.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5237253",
+      "bank_name": "PT BANK PERMATA Tbk",
+      "bank_address": "Gedung World Trade Center (WTC) II, Jl. Jend. Sudirman Kav. 29-31 Jakarta 12920",
+      "bank_cd": "013",
+      "bank_phone": "(021) 5237788",
+      "bank_website": "www.permatabank.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 2358-8300",
+      "bank_name": "PT BANK CENTRAL ASIA Tbk",
+      "bank_address": "Menara BCA, Grand Indonesia Jl. M.H Thamrin No. 1, Jakarta 10310",
+      "bank_cd": "014",
+      "bank_phone": "(021) 2358-8000",
+      "bank_website": "www.bca.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 29228914",
+      "bank_name": "PT BANK MAYBANK INDONESIA Tbk",
+      "bank_address": "Gedung Sentral Senayan 3, Lt. 26, Jl. Asia Afrika No. 8, Gelora Bung Karno - Senayan, Jakarta Pusat 10270",
+      "bank_cd": "016",
+      "bank_phone": "(021) 29228888",
+      "bank_website": "www.maybank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 2700340, 2700391",
+      "bank_name": "PT PAN INDONESIA BANK Tbk",
+      "bank_address": "Panin Bank Centre, Jl. Jend. Sudirman Kav. 1 (Senayan), Jakarta 10270",
+      "bank_cd": "019",
+      "bank_phone": "(021) 2700545 (10 lines)",
+      "bank_website": "www.panin.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 2505202, 2505205",
+      "bank_name": "PT BANK CIMB NIAGA Tbk",
+      "bank_address": "Graha Niaga / Niaga Tower Jl. Jend. Sudirman Kav. 58, Jakarta 12190",
+      "bank_cd": "022",
+      "bank_phone": "(021) 2505151, 2505252, 2505353",
+      "bank_website": "www.cimbniaga.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 29936632",
+      "bank_name": "PT BANK UOB INDONESIA",
+      "bank_address": "Gedung UOB Plaza, Jl. M.H. Thamrin No. 10 Jakarta 10230",
+      "bank_cd": "023",
+      "bank_phone": "(021) 23506000",
+      "bank_website": "www.uob.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 57944000",
+      "bank_name": "PT BANK OCBC NISP Tbk",
+      "bank_address": "OCBC NISP Tower, Jl. Prof.Dr. Satrio Kav. 25, Jakarta Selatan 12950",
+      "bank_cd": "028",
+      "bank_phone": "(021) 25533888",
+      "bank_website": "www.ocbcnisp.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 5711084",
+      "bank_name": "PT BANK ARTHA GRAHA INTERNASIONAL Tbk",
+      "bank_address": "Gedung Arha Graha, Lt. 5, Jl. Sudirman Kav. 52-53, Senayan, Jakarta 12190",
+      "bank_cd": "037",
+      "bank_phone": "(021) 5711095, 5152168",
+      "bank_website": "www.arthagraha.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 3102632, 325291, 2303624",
+      "bank_name": "PT BANK BUMI ARTA Tbk",
+      "bank_address": "Jl. KH. Wahid Hasyim No. 234, Jakarta 10250",
+      "bank_cd": "076",
+      "bank_phone": "(021) 2300893, 2300455",
+      "bank_website": "www.bankbba.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 52961015",
+      "bank_name": "PT BANK HSBC INDONESIA",
+      "bank_address": "World Trade Centre 1, Lt.3 Jl. Jend Sudirman Kav. 29-31, Karet Kuningan, Setiabudi, Jakarta Selatan 12920",
+      "bank_cd": "087",
+      "bank_phone": "(021) 25514777",
+      "bank_website": "www.hsbc.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5224670",
+      "bank_name": "PT BANK JTRUST INDONESIA Tbk",
+      "bank_address": "Gedung Sahid Sudirman Center Lt. 33 Jl. Sudirman No. 86, Jakarta Pusat 10220",
+      "bank_cd": "095",
+      "bank_phone": "(021) 29261111(HUNTING)",
+      "bank_website": "www.jtrustbank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5211995-965-539-985",
+      "bank_name": "PT BANK MAYAPADA INTERNATIONAL Tbk",
+      "bank_address": "Mayapada Tower - 2nd Floor, Jl. Jend. Sudirman Kav. 28, Jakarta 12920",
+      "bank_cd": "097",
+      "bank_phone": "(021) 5212288, 5212300",
+      "bank_website": "www.bankmayapada.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 3808178",
+      "bank_name": "PT BANK OF INDIA INDONESIA Tbk",
+      "bank_address": "Jl. H. Samanhudi No. 37, Jakarta 10710",
+      "bank_cd": "146",
+      "bank_phone": "(021) 3808178, 3500007 (HUNTING)",
+      "bank_website": "www.boiindonesia.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 2511465, 2511453",
+      "bank_name": "PT BANK MUAMALAT INDONESIA Tbk",
+      "bank_address": "Gedung Muamalat Tower Jl. Prof. Dr. Satrio Kav. 18, Jakarta 10220",
+      "bank_cd": "147",
+      "bank_phone": "(021) 80666000",
+      "bank_website": "www.muamalatbank.com"
+    },
+    {
+      "bank_fax": "Fax : (061) 4525800, 4560991-5500",
+      "bank_name": "PT BANK MESTIKA DHARMA Tbk",
+      "bank_address": "Jl. Zainul Arifin 118, Medan 20153",
+      "bank_cd": "151",
+      "bank_phone": "(061) 4525800, 4560991-5500",
+      "bank_website": "www.bankmestika.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 2311522, 2310159",
+      "bank_name": "PT BANK SHINHAN INDONESIA",
+      "bank_address": "Ged. International Financial Centre (IFC) Tower 2 Lt. Dasar, Mezz anine, 30 dan 31 Jl. Jend. Sudirman Kav. 22-23 Jakarta Selatan",
+      "bank_cd": "152",
+      "bank_phone": "(021) 29751500",
+      "bank_website": "www.shinhan.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 31990405",
+      "bank_name": "PT BANK SINARMAS Tbk",
+      "bank_address": "Sinarmas Land Plaza, Menara I, Lt. 1 \u00262 Jl. MH. Thamrin Kav. 51, Jakarta 10350",
+      "bank_cd": "153",
+      "bank_phone": "(021) 31990101",
+      "bank_website": "www.banksinarmas .co.id"
+    },
+    {
+      "bank_fax": "Fax : (031) 3536839",
+      "bank_name": "PT BANK MASPION INDONESIA Tbk",
+      "bank_address": "Jl. Basuki Rahmat No. 50 - 54, Surabaya",
+      "bank_cd": "157",
+      "bank_phone": "(031) 5319818, 5456334, 5356123",
+      "bank_website": "www.bankmaspion.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 29109992",
+      "bank_name": "PT BANK GANESHA Tbk",
+      "bank_address": "Wisma Hayam Wuruk Lt.1 \u0026 2, Jl. Hayam Wuruk No. 8, Jakarta Pusat",
+      "bank_cd": "161",
+      "bank_phone": "(021) 29109900",
+      "bank_website": "www.bankganesha.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 31996016",
+      "bank_name": "PT BANK ICBC INDONESIA",
+      "bank_address": "ICBC Tower Lt. 32, Jl. M.H. Thamrin No. 81, Jakarta Pusat",
+      "bank_cd": "164",
+      "bank_phone": "021-23556000",
+      "bank_website": "www.icbcindo.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 5155155",
+      "bank_name": "PT BANK QNB INDONESIA Tbk",
+      "bank_address": "Revenue Tower District 8 Lt.8 Jl. Jend. Sudirman Kav. 52-53 Jakarta 12190",
+      "bank_cd": "167",
+      "bank_phone": "(021) 5155155",
+      "bank_website": "www.qnb.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 50871900",
+      "bank_name": "PT BANK WOORI SAUDARA INDONESIA 1906 Tbk",
+      "bank_address": "Gedung Treasury Tower Lt.26 dan 27 District 8, SCBD Lot.28 Jl. Jend. Sudirman Kav.52 - 53 Jakarta 12190",
+      "bank_cd": "212",
+      "bank_phone": "(021) 50871906",
+      "bank_website": "www.bankwoorisaudara.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 79187100",
+      "bank_name": "PT BANK MEGA Tbk",
+      "bank_address": "Menara Bank Mega Lt.15, Jl. Kapten Tendean Kav. 12-14 A, Jakarta 12790",
+      "bank_cd": "426",
+      "bank_phone": "(021) 7917500",
+      "bank_website": "www.bankmega.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 7980625, 7980238, 7980244",
+      "bank_name": "PT BANK KB BUKOPIN Tbk",
+      "bank_address": "Jl. MT. Haryono Kav. 50-51, Jakarta 12770",
+      "bank_cd": "441",
+      "bank_phone": "(021) 7989837, 7988266",
+      "bank_website": "www.bukopin.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 3924517, 3805272",
+      "bank_name": "PT BANK SYARIAH INDONESIA Tbk *)",
+      "bank_address": "Gedung The Tower, Jl. Gatot Subroto No.27 Kel. Karet Semanggi, Kec. Setiabudi, Jakarta Selatan 12930",
+      "bank_cd": "451",
+      "bank_phone": "(021) 3450226, 3450227",
+      "bank_website": "www.bankbsi.co.id/"
+    },
+    {
+      "bank_fax": "Fax: (021) 50811123",
+      "bank_name": "PT BANK KEB HANA INDONESIA",
+      "bank_address": "Mangkuluhur City Tower One Jl. Jend. Gatot Subroto Kav. 1-3 Kel. Karet Semanggi, Jakarta Selatan",
+      "bank_cd": "484",
+      "bank_phone": "(021) 5220222, 5220223, 50811111",
+      "bank_website": "www.hanabank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5701635",
+      "bank_name": "PT BANK MNC INTERNASIONAL Tbk",
+      "bank_address": "Gedung MNC Financial Center, Lt. 6,7,8 Jl. Kebon Sirih Raya No. 27, Jakarta Pusat 10340",
+      "bank_cd": "485",
+      "bank_phone": "(021) 3919898",
+      "bank_website": "www.mncbank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 50931494",
+      "bank_name": "PT BANK RAYA INDONESIA Tbk",
+      "bank_address": "Gedung Menara BRILiaN, Lantai 20, Jalan Gatot Subroto No.117A, Menteng Dalam, Tebet, Jakarta Selatan.",
+      "bank_cd": "494",
+      "bank_phone": "(021) 50931300",
+      "bank_website": "www.bankraya.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 3854491, 3864075",
+      "bank_name": "PT BANK SBI INDONESIA",
+      "bank_address": "Graha Mandiri, Jl. Imam Bonjol No.61 Lt. 1, Jakarta Pusat 10310",
+      "bank_cd": "498",
+      "bank_phone": "(021) 39838747, 3805080",
+      "bank_website": "www.sbiindo.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 29852100",
+      "bank_name": "PT BANK MEGA SYARIAH",
+      "bank_address": "Menara Mega Syariah, Jl. HR Rasuna Said Kav. 19A, Jakarta 12950",
+      "bank_cd": "506",
+      "bank_phone": "(021) 29852000",
+      "bank_website": "www.megasyariah.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 3922336",
+      "bank_name": "PT BANK INDEX SELINDO",
+      "bank_address": "Plaza Bank Index Lt. 8 Jl. M. H. Thamrin No. 57 Jakarta Pusat",
+      "bank_cd": "555",
+      "bank_phone": "(021) 3922328",
+      "bank_website": "www.bankindex.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 565 5277",
+      "bank_name": "PT BANK MAYORA",
+      "bank_address": "Gedung Mayora, Jl. Tomang Raya Kav. 21-23, Jakarta 11440",
+      "bank_cd": "553",
+      "bank_phone": "(021) 5655287-88",
+      "bank_website": "www.bankmayora.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 50821010",
+      "bank_name": "PT BANK CHINA CONSTRUCTION BANK INDONESIA Tbk",
+      "bank_address": "Gedung Perkantoran sahid Sudirman Center Lt. 15 Jl. Jenderal Sudirman Kav. 86",
+      "bank_cd": "036",
+      "bank_phone": "(021) 50821000",
+      "bank_website": "http://idn.ccb.com/"
+    },
+    {
+      "bank_fax": "Fax : -",
+      "bank_name": "PT BANK DBS INDONESIA",
+      "bank_address": "DBS Bank Tower, Lobby Level Lt 33-37 Ciputra World 1, Jl. Prof. Dr. Satrio Kav 3-5 Jakarta 12940",
+      "bank_cd": "046",
+      "bank_phone": "(021) 29885000",
+      "bank_website": "www.dbs.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 5701950, 5701936, 5701939",
+      "bank_name": "PT BANK RESONA PERDANIA",
+      "bank_address": "Menara Mulia Lt. 5 \u0026 6, Suite 501 \u0026 601 Jl. Gatot Subroto Kav. 9-11, Jakarta",
+      "bank_cd": "047",
+      "bank_phone": "(021) 5701958",
+      "bank_website": "www.perdania.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 3926354",
+      "bank_name": "PT BANK MIZUHO INDONESIA",
+      "bank_address": "Menara Astra, Lantai 53, Jl. Jend. Sudirman Kav. 5-6, Jakarta",
+      "bank_cd": "048",
+      "bank_phone": "(021) 50910888",
+      "bank_website": "www.mizuhocbk.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 27938900",
+      "bank_name": "PT BANK CAPITAL INDONESIA Tbk",
+      "bank_address": "Gedung Menara Jamsostek Lt. 1 \u0026 6, Jl. Gatot Subroto No. 38 Jakarta Selatan 12710",
+      "bank_cd": "054",
+      "bank_phone": "(021) 27938989",
+      "bank_website": "www.bankcapital.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 50814790",
+      "bank_name": "PT BANK BNP PARIBAS INDONESIA",
+      "bank_address": "Sequis Tower Lt.28, SCBD Lot 11B Jl. Jenderal Sudirman Kav.71 Jakarta 12190",
+      "bank_cd": "057",
+      "bank_phone": "(021) 50814789",
+      "bank_website": "www.bnpparibas.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5727447",
+      "bank_name": "PT BANK ANZ INDONESIA",
+      "bank_address": "World Trade Centre 3, Lt.30-31 Jl. Jend. Sudirman Kav.29-31, Karet Kuningan, Setiabudi, Jakarta Selatan 12920",
+      "bank_cd": "061",
+      "bank_phone": "(021) 5750300",
+      "bank_website": "www.anz.com"
+    },
+    {
+      "bank_fax": "Fax : -",
+      "bank_name": "PT BANK IBK INDONESIA Tbk",
+      "bank_address": "Wisma GKBI Suites-UG01 Jl. Jendral Sudirman No. 29, Jakarta",
+      "bank_cd": "945",
+      "bank_phone": "021-57908888",
+      "bank_website": "www.bankagris.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 2506445",
+      "bank_name": "PT BANK ALADIN SYARIAH Tbk **)",
+      "bank_address": "Millennium Centennial Center Lt 7 Jl. Jendral Sudirman Kav. 25 Jakarta 12920",
+      "bank_cd": "947",
+      "bank_phone": "(021) 2506446",
+      "bank_website": "www.maybanksyariah.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5206767",
+      "bank_name": "PT BANK CTBC INDONESIA",
+      "bank_address": "Tamara Center Lt. 15-17, Jl. Jend. Sudirman Kav. 24, Jakarta 12920",
+      "bank_cd": "949",
+      "bank_phone": "(021) 25578787",
+      "bank_website": "www.chinatrust.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 60960140",
+      "bank_name": "PT BANK COMMONWEALTH",
+      "bank_address": "Treasury Tower Lt. 65 Lot 28 SCBD, Jl. Jendral Sudirman Kav 52-45, Jakarta Selatan",
+      "bank_cd": "950",
+      "bank_phone": "(021) 50960000",
+      "bank_website": "www.commbank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 30026308",
+      "bank_name": "PT BANK BTPN Tbk",
+      "bank_address": "Menara BTPN - CBD Mega Kuningan, Jl. Dr. Ide Anak Agung Gde Agung Kav. 5,5 - 5,6 Jakarta Selatan 12950",
+      "bank_cd": "213",
+      "bank_phone": "(021) 30026200",
+      "bank_website": "www.btpn.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 57940941",
+      "bank_name": "PT BANK VICTORIA SYARIAH",
+      "bank_address": "Gd Graha BIP lantai 5 Jl.Gatot Subroto Kav.23 Karet Semanggi Setiabudi Jakarta Selatan",
+      "bank_cd": "405",
+      "bank_phone": "(021) 5600467",
+      "bank_website": "www.bankvictoriasyariah.co.id"
+    },
+    {
+      "bank_fax": "Fax : (022) 4212550/4212524",
+      "bank_name": "PT BANK JABAR BANTEN SYARIAH",
+      "bank_address": "Jl. Braga No. 135 Bandung",
+      "bank_cd": "425",
+      "bank_phone": "022-4202599",
+      "bank_website": "www.bjbsyariah.co.id"
+    },
+    {
+      "bank_fax": "Fax : (022) 4235741",
+      "bank_name": "PT KROM BANK INDONESIA Tbk",
+      "bank_address": "Jl. Ir. H. Djuanda No. 137, Bandung",
+      "bank_cd": "459",
+      "bank_phone": "(022) 2501787, 2511900, 4233458",
+      "bank_website": "www.bankbisnis.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 6902619, 6910270, 6902031",
+      "bank_name": "PT BANK JASA JAKARTA",
+      "bank_address": "Jl. Tiang Bendera III No. 26-28-30, Jakarta 11230",
+      "bank_cd": "472",
+      "bank_phone": "(021) 6902611, 6906950",
+      "bank_website": "www.bjj.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 3517530, 3517535",
+      "bank_name": "PT BANK NEO COMMERCE Tbk",
+      "bank_address": "Treasury Tower Lt.60, District 8 SCBD Lot 28, Jl Jendral Sudirman Kav 52-53, Jakarta Selatan",
+      "bank_cd": "490",
+      "bank_phone": "(021) 3517523, 3517533",
+      "bank_website": "www.yudhabhakti.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 63864476-63864474",
+      "bank_name": "PT BANK DIGITAL BCA",
+      "bank_address": "Gedung The City Tower (TCT) Lt.11 Jl. MH. Thamrin No.81 Kel. Dukuh Atas, Kec. Menteng Jakarta Pusat",
+      "bank_cd": "501",
+      "bank_phone": "(021) 63864472,73,75",
+      "bank_website": "www.bcadigital.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 6310517",
+      "bank_name": "PT BANK NATIONALNOBU Tbk",
+      "bank_address": "Plaza Semanggi Lt. 9, Jl. Jendral Sudirman Kav. 50 Jakarta",
+      "bank_cd": "503",
+      "bank_phone": "(021) 25535128",
+      "bank_website": "www.nobubank.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 3859041",
+      "bank_name": "PT BANK INA PERDANA Tbk",
+      "bank_address": "Wisma BSG, Jl. Abdul Muis No. 40, Jakarta Pusat",
+      "bank_cd": "513",
+      "bank_phone": "(021) 3859050",
+      "bank_website": "www.bankina.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 56956105",
+      "bank_name": "PT BANK PANIN DUBAI SYARIAH Tbk",
+      "bank_address": "Gd.Panin Life Centre Lt. 3, Jl. Letjend S. Parman Kav 91 Jakarta 11420",
+      "bank_cd": "517",
+      "bank_phone": "(021) 56956100",
+      "bank_website": "www.paninbanksyariah.co.id"
+    },
+    {
+      "bank_fax": "Fax : (031) 3520437",
+      "bank_name": "PT PRIMA MASTER BANK",
+      "bank_address": "Jl. Jembatan Merah No. 15-17, Surabaya 60175",
+      "bank_cd": "520",
+      "bank_phone": "(031) 3531253 (HUNTING)",
+      "bank_website": "www.primamasterbank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 3148401",
+      "bank_name": "PT BANK KB BUKOPIN SYARIAH ****)",
+      "bank_address": "Jl. Salemba Raya No. 55, Jakarta",
+      "bank_cd": "521",
+      "bank_phone": "(021) 2300912",
+      "bank_website": "wwww.syariahbukopin.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 57950624",
+      "bank_name": "PT BANK SAHABAT SAMPOERNA",
+      "bank_address": "Gedung Sampoerna Strategic Square Menara Utara, Lt. Mezzanine Jl. Jend. Sudirman Kav 45 Jakarta",
+      "bank_cd": "523",
+      "bank_phone": "(021) 57951515",
+      "bank_website": "www.banksampoerna.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 2313749",
+      "bank_name": "PT BANK OKE INDONESIA Tbk",
+      "bank_address": "Jl. Ir. H. Juanda No. 12, Jakarta 10120",
+      "bank_cd": "526",
+      "bank_phone": "(021) 2312633",
+      "bank_website": "www.okbank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (031) 3536839",
+      "bank_name": "PT BANK AMAR INDONESIA",
+      "bank_address": "Jl. Basuki Rahmad No. 109, Surabaya",
+      "bank_cd": "531",
+      "bank_phone": "(031) 99015959",
+      "bank_website": "www.amarbank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 3102970, 3100959",
+      "bank_name": "PT BANK SEABANK INDONESIA",
+      "bank_address": "Gedung IKP RI, Jl. R.P. Suroso No. 21, Jakarta 10330",
+      "bank_cd": "535",
+      "bank_phone": "(021) 3100422, 3100448",
+      "bank_website": "www.bankkesejahteraan.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 8190826, 85901568",
+      "bank_name": "PT BANK BCA SYARIAH",
+      "bank_address": "Jl. Jatinegara Timur No. 72, Jakarta 13310",
+      "bank_cd": "536",
+      "bank_phone": "(021) 8190072, 8505030, 8505035",
+      "bank_website": "www.bcasyariah.co.id"
+    },
+    {
+      "bank_fax": "-",
+      "bank_name": "PT BANK JAGO TBK",
+      "bank_address": "Menara BTPN Lt 43,45 dan 46 Jl. Dr. Ide Anak Agung Gde Agung Kav.5,5-5,6 Jakarta Selatan",
+      "bank_cd": "542",
+      "bank_phone": "(021) 50927460",
+      "bank_website": "www.jago.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 29021699",
+      "bank_name": "PT BANK BTPN SYARIAH Tbk",
+      "bank_address": "Menara BTPN, Lt. 12 CBD Mega Kuningan, Jl. Dr. Ide Anak Agung Gde Agung Kav. 5.5-5.6 Kel. Kuningan Timur, Jakarta Selatan",
+      "bank_cd": "547",
+      "bank_phone": "(021) 30026400",
+      "bank_website": "www.btpnsyariah.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 5790 6005",
+      "bank_name": "PT BANK MULTIARTA SENTOSA Tbk",
+      "bank_address": "Graha Bank MAS Lt. 3, Jl. Setiabudi Selatan Kav. 7-8, Jakarta Selatan",
+      "bank_cd": "548",
+      "bank_phone": "(021) 5790 6006",
+      "bank_website": "www.bankmas.co.id"
+    },
+    {
+      "bank_fax": "Fax : (022) 4200277",
+      "bank_name": "PT BANK FAMA INTERNASIONAL",
+      "bank_address": "Jl. Asia Afrika No. 115, Bandung",
+      "bank_cd": "562",
+      "bank_phone": "(022) 4200808",
+      "bank_website": "www.bankfama.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 21231984",
+      "bank_name": "PT BANK MANDIRI TASPEN",
+      "bank_address": "Graha Mantap Jalan Proklamasi No. 31 Kel. Pegangsaan, Kec. Menteng, Jakarta Pusat 10320",
+      "bank_cd": "564",
+      "bank_phone": "(021) 21231772",
+      "bank_website": "www.bankmantap.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5228777",
+      "bank_name": "PT BANK VICTORIA INTERNATIONAL Tbk",
+      "bank_address": "Gedung Graha BIP Lt.10 Jl. Gatot Subroto Kav. 23 Karet Semanggi, Setiabudi Jakarta Selatan 12930",
+      "bank_cd": "566",
+      "bank_phone": "(021) 5228888",
+      "bank_website": "www.victoriabank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 6123959-7023",
+      "bank_name": "PT ALLO BANK INDONESIA ***)",
+      "bank_address": "Menara Bank Mega Lantai 5-6 Jalan Kapten P. Tendean No.12-14A Jakarta 12790",
+      "bank_cd": "567",
+      "bank_phone": "(021) 3841178, 3841022-23",
+      "bank_website": "www.allobank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (022) 4210391, 4232153, 4206944-3934",
+      "bank_name": "PT BPD JAWA BARAT DAN BANTEN Tbk",
+      "bank_address": "Jl. Naripan No. 12 - 14, Bandung 40111",
+      "bank_cd": "110",
+      "bank_phone": "(022) 4234868, 4230223",
+      "bank_website": "www.bankjabar.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 3517660, 2310194, 2312884",
+      "bank_name": "PT BPD DKI",
+      "bank_address": "Gd. Prasada Sasana Karya Jl. Suryopranoto No. 8, Jakarta Pusat",
+      "bank_cd": "111",
+      "bank_phone": "(021) 2314567 (HUNTING)",
+      "bank_website": "www.bankdki.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0274) 562303, 520955",
+      "bank_name": "PT BPD DAERAH ISTIMEWA YOGYAKARTA",
+      "bank_address": "Jl. Tentara Pelajar No. 7, Yogyakarta",
+      "bank_cd": "112",
+      "bank_phone": "(0274) 561614",
+      "bank_website": "www.bpddiy.co.id"
+    },
+    {
+      "bank_fax": "Fax : (024) 3540170, 3520186, 3556529",
+      "bank_name": "PT BPD JAWA TENGAH",
+      "bank_address": "Gedung Grinatha Jl. Pemuda No. 142, Semarang, Jawa Tengah 50132",
+      "bank_cd": "113",
+      "bank_phone": "(024) 3547541, 3554025",
+      "bank_website": "www.bankjateng.co.id"
+    },
+    {
+      "bank_fax": "Fax : (031) 5311055",
+      "bank_name": "PT BPD JAWA TIMUR Tbk",
+      "bank_address": "Jl. Basuki Rakhmat No. 98-104, Surabaya",
+      "bank_cd": "114",
+      "bank_phone": "(031) 5310090-99",
+      "bank_website": "www.bankjatim.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0741) 64882",
+      "bank_name": "PT BPD JAMBI",
+      "bank_address": "Jl. Jend. A. Yani No. 18, Telanaipura, Jambi",
+      "bank_cd": "115",
+      "bank_phone": "(0741) 60416, 60665, 62790, 64628",
+      "bank_website": "www.bankjambi.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0651) 33565",
+      "bank_name": "PT BANK ACEH SYARIAH",
+      "bank_address": "Jl. Mr. H. T. Mohd. Hasan Gampong Lancot No. 89 Batoh, Banda Aceh",
+      "bank_cd": "116",
+      "bank_phone": "(0651) 22966",
+      "bank_website": "www.bankaceh.co.id"
+    },
+    {
+      "bank_fax": "Fax : (061) 4574153, 4574145, 4512652",
+      "bank_name": "PT BPD SUMATERA UTARA",
+      "bank_address": "Jl. Imam Bonjol No. 18, Medan 20152",
+      "bank_cd": "117",
+      "bank_phone": "(061) 4155100, 4515100",
+      "bank_website": "www.banksumut.com"
+    },
+    {
+      "bank_fax": "Fax : (0751) 37749, 31491",
+      "bank_name": "PT BANK NAGARI",
+      "bank_address": "Jl. Pemuda No. 21, Padang 25117",
+      "bank_cd": "118",
+      "bank_phone": "(0751) 25055, 31577, 31578",
+      "bank_website": "www.banknagari.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0761) 33397, 21195, 40134, 40135",
+      "bank_name": "PT BPD RIAU KEPRI SYARIAH *****)",
+      "bank_address": "Menara Dang Merdu BRK Jl. Jend. Sudirman No. 462, Kota Pekanbaru",
+      "bank_cd": "119",
+      "bank_phone": "(0761) 47070",
+      "bank_website": "www.brksyariah.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0711) 5228107",
+      "bank_name": "PT BPD SUMATERA SELATAN DAN BANGKA BELITUNG",
+      "bank_address": "Jl. Gubernur H. Ahmad Bastari No. 07 Kel. Silaberanti Kec. Seberang Ulu I Jakabaring Palembang",
+      "bank_cd": "120",
+      "bank_phone": "(0711) 5228080",
+      "bank_website": "www.banksumselbabel.com"
+    },
+    {
+      "bank_fax": "Fax : (0721) 485530",
+      "bank_name": "PT BPD LAMPUNG",
+      "bank_address": "Jl. Wolter Monginsidi No. 182, Teluk Betung, Bandar Lampung 35215",
+      "bank_cd": "121",
+      "bank_phone": "(0721) 487175, 482237",
+      "bank_website": "www.banklampung.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0511) 57330, 50722",
+      "bank_name": "PT BPD KALIMANTAN SELATAN",
+      "bank_address": "Jl. Lambung Mangkurat No. 7, Banjarmasin 70111",
+      "bank_cd": "122",
+      "bank_phone": "(0511) 3350726-28",
+      "bank_website": "www.bankbpdkalsel.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0561) 734351, 745148, 745149",
+      "bank_name": "PT BPD KALIMANTAN BARAT",
+      "bank_address": "Jl. Rahadi Oesman No. 10, Pontianak 78117",
+      "bank_cd": "123",
+      "bank_phone": "(0561) 732148, 734713, 736723",
+      "bank_website": "www.bankkalbar.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0541) 735580, 748362",
+      "bank_name": "PT BPD KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+      "bank_address": "Jl. Jend. Sudirman No. 33, Samarinda",
+      "bank_cd": "124",
+      "bank_phone": "(0541) 735500, 739563 - 567",
+      "bank_website": "www.bankkaltim.com"
+    },
+    {
+      "bank_fax": "Fax : (0536) 3242470",
+      "bank_name": "PT BPD KALIMANTAN TENGAH",
+      "bank_address": "Jl. RTA Milono No. 12, Palangka Raya 73111",
+      "bank_cd": "125",
+      "bank_phone": "(0536) 3226812",
+      "bank_website": "www.bp-kalteng.com"
+    },
+    {
+      "bank_fax": "Fax : (0411) 854611, 859178",
+      "bank_name": "PT BPD SULAWESI SELATAN DAN SULAWESI BARAT",
+      "bank_address": "Jl. Dr. Sam Ratulangi No. 16, Makassar 90125",
+      "bank_cd": "126",
+      "bank_phone": "(0411) 859171-72-73-74, 859176-181",
+      "bank_website": "www.banksulsel.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0431) 846515, 854522, 852430",
+      "bank_name": "PT BPD SULAWESI UTARA DAN GORONTALO",
+      "bank_address": "Jl. Sam Ratulangi No. 9, Manado 95111",
+      "bank_cd": "127",
+      "bank_phone": "(0431) 861759, 851451",
+      "bank_website": "www.banksulutgo.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0370) 623527, 623526, 648766",
+      "bank_name": "PT BANK NTB SYARIAH",
+      "bank_address": "Jl. Pejanggik No. 30, Mataram",
+      "bank_cd": "128",
+      "bank_phone": "(0370) 632177, 636331, 635332",
+      "bank_website": "www.bankntb.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0361) 229439, 235806, 237691",
+      "bank_name": "PT BPD BALI",
+      "bank_address": "Jl. Raya Puputan Niti Mandala, Renon, Denpasar",
+      "bank_cd": "129",
+      "bank_phone": "(0361) 223301 - 05",
+      "bank_website": "www.bpdbali.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0380) 840567",
+      "bank_name": "PT BPD NUSA TENGGARA TIMUR",
+      "bank_address": "Jl. W.J. Lalamentik No. 102, Kupang, Nusa Tenggara Timur, 85000",
+      "bank_cd": "130",
+      "bank_phone": "(0380) 840555",
+      "bank_website": "www.bpdntt.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0911) 353144, 354997, 354229, 345719, 342029",
+      "bank_name": "PT BPD MALUKU DAN MALUKU UTARA",
+      "bank_address": "Jl. Raya Pattimura 9, Ambon 97124",
+      "bank_cd": "131",
+      "bank_phone": "(0911) 354214, 353144, 354229, 310696",
+      "bank_website": "www.bankmaluku.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0967) 533019",
+      "bank_name": "PT BPD PAPUA",
+      "bank_address": "Jl. Ahmad Yani 5-7, Jayapura 99111, Kotak Pos 1536",
+      "bank_cd": "132",
+      "bank_phone": "(0967) 532011 (hunting)",
+      "bank_website": "www.bankpapua.com"
+    },
+    {
+      "bank_fax": "Fax : (0736) 21178",
+      "bank_name": "PT BPD BENGKULU",
+      "bank_address": "Jl. S. Parman Padang Jati Nomor 57, Kota Bengkulu",
+      "bank_cd": "133",
+      "bank_phone": "(0736) 341170",
+      "bank_website": "www.bankbengkulu.co.id"
+    },
+    {
+      "bank_fax": "Fax : (0451) 424405",
+      "bank_name": "PT BPD SULAWESI TENGAH",
+      "bank_address": "Jl. St. Hasanuddin No. 20, Palu",
+      "bank_cd": "134",
+      "bank_phone": "(0451) 421780",
+      "bank_website": "www.sulteng.go.id"
+    },
+    {
+      "bank_fax": "Fax : (0401) 321568",
+      "bank_name": "PT BPD SULAWESI TENGGARA",
+      "bank_address": "Jl. May. Jend. Sutoyo No. 95, Kendari, Sulawesi Tenggara",
+      "bank_cd": "135",
+      "bank_phone": "(0401) 3121526, 3122104-194-551, 3123163",
+      "bank_website": "www.banksultra.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 79199950",
+      "bank_name": "PT BPD BANTEN Tbk",
+      "bank_address": "Ruko Sembilan No. 8B-9A Jalan Jendral Sudirman, Lingkungan Kemang RT 04 RW 23, Kelurahan Sumur Pecung, Kecamatan Serang, Banten",
+      "bank_cd": "137",
+      "bank_phone": "(0254) 7917346",
+      "bank_website": "www.bankbanten.co.id"
+    },
+    {
+      "bank_fax": "Fax : -",
+      "bank_name": "CITIBANK N.A.",
+      "bank_address": "Citibank Tower Lt. 8-11 Pacific Century Place SCBD Lot. 10 Jl. Jend. Sudirman No.52-53 Jakarta 12190",
+      "bank_cd": "031",
+      "bank_phone": "(021) 80862500",
+      "bank_website": "www.citibank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 52918211, 52918233, 5710958",
+      "bank_name": "JP MORGAN CHASE BANK NA",
+      "bank_address": "Gedung The Energy Lt. 5 \u0026 6, SCBD Lot 11A, JL. Jend. Sudirman Kav 52-53, Jakarta 12190",
+      "bank_cd": "032",
+      "bank_phone": "(021) 52918000, 52918750, 52918233",
+      "bank_website": "www.jpmorganchase.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 5151407-5158088",
+      "bank_name": "BANK OF AMERICA N.A",
+      "bank_address": "Gedung Bursa Efek Jakarta, Tower 2, Lt 23, Jl. Sudirman Kav. 52-53, Jakarta",
+      "bank_cd": "033",
+      "bank_phone": "(021) 29553700",
+      "bank_website": "www.bankofamerica.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 377842, 2310070, 3853881",
+      "bank_name": "BANGKOK BANK PCL",
+      "bank_address": "Jl. MH. Thamrin No. 3, Jakarta",
+      "bank_cd": "040",
+      "bank_phone": "(021) 2311008",
+      "bank_website": "www.bangkokbank.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5704149-7625, 5731927-6565",
+      "bank_name": "MUFG BANK LTD",
+      "bank_address": "Gedung Mid Plaza Lt.1-3, Jl. Jend Sudirman Kav. 10-11, Jakarta 10220",
+      "bank_cd": "042",
+      "bank_phone": "(021) 5706185, 5705177, 5703955",
+      "bank_website": "www.mufg.co.id"
+    },
+    {
+      "bank_fax": "Fax : (021) 5722280, 5721234",
+      "bank_name": "STANDARD CHARTERED BANK",
+      "bank_address": "Menara Standard Chartered Bank, Jl. Prof. Dr. Satrio No. 164, Jakarta 12950",
+      "bank_cd": "050",
+      "bank_phone": "(021) 2550000, 579 99988",
+      "bank_website": "www.standardchartered.com"
+    },
+    {
+      "bank_fax": "Fax : (021) 31935252",
+      "bank_name": "DEUTSCHE BANK AG",
+      "bank_address": "Deutsche Bank Building, Jl. Imam Bonjol No. 80, Jakarta",
+      "bank_cd": "067",
+      "bank_phone": "(021) 29644401",
+      "bank_website": "www.deutsche-bank.co.id/indonesia"
+    }
+  ]
+  
